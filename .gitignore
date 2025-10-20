@@ -1,0 +1,31 @@
+# Proyek Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools/
+/Assets/AssetStoreTools-*.unitypackage
+
+# File lokal
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.DS_Store
+*.suo
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Cache/Log
+/Logs/
+/MemoryCaptures/
+/[Tt]est[Rr]esults/
+
+# Rider/JetBrains
+.idea/
+*.iml
